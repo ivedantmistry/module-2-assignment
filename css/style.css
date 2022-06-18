@@ -26,14 +26,14 @@ body{
 .item{
   position: relative;
   top: 0;
-  background-color:#999999;
+  background-color:bisque;
   margin: 15px;
   padding: 25px;
-  border: 3px solid #000;
+  border: 5px solid #000;
 }
 
 .item p{
-  margin-top: 18px;
+  margin-top: 58px;
   text-align: justify;
   font-size:100%;
 }
@@ -41,7 +41,7 @@ body{
 .item-title{
   position: absolute;
   top:0;
-  right: 0px;
+  right: 100px;
   background: green; 
   padding: 6px 90px;
   border-left: 2px solid #000;
@@ -49,15 +49,15 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+  background-color:blueviolet;
 } 
 
 #title-two{
-  background-color: #C14543;
+  background-color:aqua;
 }
 
 #title-three{
-  background-color: #E5D198;
+  background-color:red;
 }
 
 /* Simple Responsive Framework. */
